@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desafios RocketSeat - Level 1
+    Challenge RocketSeat - Level 1
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NicolasZim/RocketChallanges-lvl1">
@@ -15,51 +15,41 @@
   </a>
 
 <p align="center">
-  <a href="#-tecnologias">🔥 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">📁 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">🔥 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">📁 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">👩‍💻 Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend">💻 Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">📱 Mobile</a>
 </p>
 
 
 </p>
 
 
-## 🔥 Tecnologias
+## 🔥 Technologies
 
-Neste projeto foi utilizado as seguintes tecnologias:
+The following technologies were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Axios](https://github.com/axios/axios)
-- [Android Studio](https://github.com/androidstudioapp)
-- [Uuidv4](https://github.com/thenativeweb/uuidv4)
-- [Insomnia](https://github.com/Kong/insomnia)
 
 
-## 📁 Projeto
-O projeto tem como objetivo testar as minhas habilidades fazendo os desafios da RocketSeat. Utilizando Uuids na criação de repositórios, usando API com Axios, emulando um android via Android Studio e construindo o frontend e mobile com React e ReactNative. Também utilizando Insomnia para testar os endpoints e utilizando testes automatizados.
+## 📁 Project
+The project aims to test my skills by completing RocketSeat challenges. Using UUIDs for creating repositories, utilizing API with Axios, emulating Android via Android Studio, and building the frontend and mobile with React and React Native. Also using Insomnia to test the endpoints and automated tests.
 
 
 ## 👩‍💻 Backend
-- Cria repositórios
-- Lista repositórios
-- Deleta repositórios
-- Edita repositórios
-- Adiciona um like ao repositório
+- Create repositories
+- List repositories
+- Delete repositories
+- Edit repositories
+- Add a like to a repository
 
 
 ## 💻 Frontend
-- Lista repositórios
-- Permite edição
-
-
-## 📱 Mobile
-- Lista repositórios
-- Permite dar likes em repositórios
-
+- List repositories
+- Allow editing
 
 
 <p align="center">by Nicolas Zim</p>
