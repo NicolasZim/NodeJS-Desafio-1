@@ -51,5 +51,8 @@ The project aims to test my skills by completing RocketSeat challenges. Using UU
 - List repositories
 - Allow editing
 
+## 📱 Mobile
+- List repositories
+- Allows to like repositories
 
 <p align="center">by Nicolas Zim</p>
